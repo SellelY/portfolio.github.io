@@ -1,0 +1,25 @@
+{
+    "projects": [
+
+        {
+            "name": "Malmö Dansakademi: Brand identity",
+            "images": ["/media/brand-id-insta-copy.png", "/media/brand-id-insta-copy2.png", "/media/pernilla.nadie-brandID-copy.png"]
+        },
+
+        {
+            "name": "HiQ: Instagram carousel",
+            "images": ["/media/insta-karusell-1.png", "/media/insta-karusell-2.png", "/media/insta-karusell-3.png", "/media/insta-karusell-4.png", "/media/insta-karusell-5.png"]
+        },
+
+        {
+            "name" : "HiQ: Instagram animation",
+            "images": ["/media/Screenshot 2023-09-26 at 11.52.54.png", "/media/RIG.mp4"]
+        },
+
+        {
+            "name" : "Sharkmob: Logo animation",
+            "images": ["/media/Screenshot 2023-09-26 at 11.55.38.png", "/media/sharkmob-animation-logo (kopia).mp4"]
+        }
+
+    ]
+}
